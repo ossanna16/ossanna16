@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work as a Senior Community Program Manager @GitHub :octocat:, I'm a former Python Software Foundation Board Member 🐍, Mental Health advocate 🧠, tech conference speaker 📢, mentor 👩‍🏫, and PyLadies London co-organizer 💻.
+
 <!--
 **ossanna16/ossanna16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
